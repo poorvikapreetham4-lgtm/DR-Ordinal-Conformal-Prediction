@@ -1,0 +1,17 @@
+# Dataset files
+datasets/aptos/
+
+# Trained model files
+outputs/*.pth
+outputs/*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# VS Code settings
+.vscode/
